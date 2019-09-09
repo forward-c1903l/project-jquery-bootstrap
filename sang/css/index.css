@@ -1,0 +1,9 @@
+article{
+	margin: 0;
+	padding: 0;
+	flex-wrap: wrap;
+}
+
+#fullimg:hover{
+	cursor: pointer;
+}
