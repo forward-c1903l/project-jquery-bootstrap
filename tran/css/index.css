@@ -1,0 +1,16 @@
+.carousel-item {
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: ;
+    background-position: center;
+}
+
+.carousel-caption > h5 {
+    font-style: oblique ;
+    line-height: 1.5;
+    font-weight: 300;
+    margin: center;
+    margin-bottom: 200px !important;
+    
+}
