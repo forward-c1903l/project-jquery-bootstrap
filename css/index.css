@@ -1,0 +1,36 @@
+*{
+	background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+}
+
+.menu {
+	background-image: url('./../images/nav.png');
+	height: 40px;
+	border: 2px solid blue;
+	background-size: cover;
+}
+.carousel {
+	background-image: url('./../images/carousel.png');
+	background-size: cover;
+	border: 2px solid green;
+}
+
+section {
+	margin-bottom: 50px;
+	height: 700px;
+	background-position: center;
+}
+
+.features {
+	background-image: url('./../images/features.png');
+	border: 2px solid black;
+}
+.projects {
+	background-image: url('./../images/projects.png');
+	border: 2px solid red;
+}
+.blog {
+	background-image: url('./../images/blog.png');
+	border: 2px solid yellow;
+}
